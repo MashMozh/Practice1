@@ -1,0 +1,7 @@
+print('Login', end=' ')
+login=input()
+print('Password', end=' ')
+password1=int(input())
+print('New password', end=' ')
+passwordnew=input()
+print('User',login, 'has changed the password to', passwordnew)

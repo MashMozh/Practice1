@@ -1,0 +1,4 @@
+print('Как вас зовут?', end=' ')
+name=input()
+print('Здравствуйте,', end=' ')
+print(name)
